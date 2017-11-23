@@ -1,0 +1,22 @@
+<beanList>
+   <beans class="java.util.ArrayList">
+      <object class="ru.sfedu.mavenproject1.model.entities.CSVEntities.Model">
+         <id>1</id>
+         <size>1:18</size>
+         <material>iron</material>
+         <price>18000</price>
+         <title>AVEO</title>
+         <mark>SHEVROLET</mark>
+         <manufacturer>CHINA</manufacturer>
+      </object>
+      <object class="ru.sfedu.mavenproject1.model.entities.CSVEntities.Model">
+         <id>2</id>
+         <size>1:18</size>
+         <material>iron</material>
+         <price>18000</price>
+         <title>AVEO</title>
+         <mark>SHEVROLET</mark>
+         <manufacturer>CHINA</manufacturer>
+      </object>
+   </beans>
+</beanList>

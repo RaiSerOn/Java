@@ -1,0 +1,46 @@
+<beanList>
+   <beans class="java.util.ArrayList">
+      <object class="ru.sfedu.mavenproject1.model.entities.CSVEntities.User">
+         <name>Hello</name>
+         <id>1</id>
+         <number>88005553535</number>
+         <thirdName>AndAgain</thirdName>
+         <sureName>Again</sureName>
+      </object>
+      <object class="ru.sfedu.mavenproject1.model.entities.CSVEntities.User">
+         <name>Hello</name>
+         <id>2</id>
+         <number>88005553535</number>
+         <thirdName>AndAgain</thirdName>
+         <sureName>Again</sureName>
+      </object>
+      <object class="ru.sfedu.mavenproject1.model.entities.CSVEntities.User">
+         <name>Hello</name>
+         <id>4</id>
+         <number>88005553535</number>
+         <thirdName>AndAgain</thirdName>
+         <sureName>Again</sureName>
+      </object>
+      <object class="ru.sfedu.mavenproject1.model.entities.CSVEntities.User">
+         <name>Hello</name>
+         <id>6</id>
+         <number>88005553535</number>
+         <thirdName>AndAgain</thirdName>
+         <sureName>Again</sureName>
+      </object>
+      <object class="ru.sfedu.mavenproject1.model.entities.CSVEntities.User">
+         <name>Hello</name>
+         <id>5</id>
+         <number>88005553535</number>
+         <thirdName>AndAgain</thirdName>
+         <sureName>Again</sureName>
+      </object>
+      <object class="ru.sfedu.mavenproject1.model.entities.CSVEntities.User">
+         <name>Hello</name>
+         <id>7</id>
+         <number>88005553535</number>
+         <thirdName>AndAgain</thirdName>
+         <sureName>Again</sureName>
+      </object>
+   </beans>
+</beanList>
