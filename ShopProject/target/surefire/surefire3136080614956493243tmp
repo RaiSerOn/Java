@@ -1,0 +1,8 @@
+#surefire
+#Wed Dec 20 19:19:15 MSK 2017
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\NetBeansProjects\\mavenproject1
+file.encoding=UTF-8
+localRepository=C\:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\.m2\\repository
+basedir=C\:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Documents\\NetBeansProjects\\mavenproject1
+test=ru.sfedu.mavenproject1.XMLDataProvider\#purchaseTest

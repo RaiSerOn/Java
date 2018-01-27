@@ -1,0 +1,11 @@
+<beanList>
+   <beans class="java.util.ArrayList">
+      <object class="ru.sfedu.shopproject.model.entities.CSVEntities.User" id="946508878330586812">
+         <name>Name_-1754930777</name>
+         <number>+946508878330586812</number>
+         <sureName>SureName_1442779828</sureName>
+         <thirdName>ThirdName_855371717</thirdName>
+         <login>Login_946508878330586812</login>
+      </object>
+   </beans>
+</beanList>

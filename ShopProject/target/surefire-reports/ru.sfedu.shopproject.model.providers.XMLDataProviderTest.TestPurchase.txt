@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.sfedu.shopproject.model.providers.XMLDataProviderTest.TestPurchase
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.579 sec

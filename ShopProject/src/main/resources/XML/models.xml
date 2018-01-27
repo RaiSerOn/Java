@@ -1,0 +1,12 @@
+<beanList>
+   <beans class="java.util.ArrayList">
+      <object class="ru.sfedu.shopproject.model.entities.CSVEntities.Model" id="2524820371264024997">
+         <size>Size_323177711</size>
+         <manufacturer>Manufacturer_1715958854</manufacturer>
+         <mark>Mark_602200996</mark>
+         <title>Title_1077031863</title>
+         <material>Material_2120632970</material>
+         <price>2524820371264024997</price>
+      </object>
+   </beans>
+</beanList>
